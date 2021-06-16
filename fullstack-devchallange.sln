@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serverside.api", "serverside.api\serverside.api.csproj", "{2770184F-1FCA-43EA-BAAE-6E0372C29A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2770184F-1FCA-43EA-BAAE-6E0372C29A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2770184F-1FCA-43EA-BAAE-6E0372C29A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2770184F-1FCA-43EA-BAAE-6E0372C29A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2770184F-1FCA-43EA-BAAE-6E0372C29A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B7EEC8-525F-4E05-955A-D9E259FFD3FF}
+	EndGlobalSection
+EndGlobal
