@@ -1,0 +1,19 @@
+App Structure
+
+Actions
+
+- api.js
+- aClassificado.js
+- store.js
+
+Components
+
+- ClassificadoRegister
+- Classificados
+- useRegister
+
+Reducers
+
+- App.js
+- index.js
+- index.css
