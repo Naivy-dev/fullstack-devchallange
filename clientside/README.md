@@ -1,1 +1,1 @@
-## 'npm run start' start para rodar a clientside
+## 'npm run start' para rodar a clientside
