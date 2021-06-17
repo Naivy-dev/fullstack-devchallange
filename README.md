@@ -26,3 +26,4 @@
  - Redux
  - Redux Thunk
  - Axios
+ - SQL Server
